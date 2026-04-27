@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-input_folder = "raw_csvs"
+input_folder = "test_csvs"
 output_folder = "processed_csvs"
 
 os.makedirs(output_folder, exist_ok=True)
